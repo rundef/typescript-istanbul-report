@@ -1,0 +1,9 @@
+verbose: false
+instrumentation:
+    root: ./
+    extensions: 
+        - .ts
+    preserve-comments: false
+    include-all-sources: true
+    excludes: 
+        - test
